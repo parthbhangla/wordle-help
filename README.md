@@ -1,4 +1,4 @@
-# wordle-solver
+# wordle-help
 Wrote some python code to help me figure out wordle answers by eliminating from a list of all possible 5 letter word combinations.
 <br>
 Used a text file with all words and then wrote a filter to filter out all the five letter words from it.
